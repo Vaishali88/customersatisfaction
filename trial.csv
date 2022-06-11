@@ -1,0 +1,23 @@
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,complaint_id
+08/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,CA,95993,,,Referral,03-09-2013,Closed with explanation,Yes,511074
+08/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,CA,91104,,,Referral,03-09-2013,Closed with explanation,Yes,511080
+08/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,NY,11764,,,Postal mail,09/18/2013,Closed with explanation,Yes,510473
+08/30/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MD,21402,,,Email,08/30/2013,Closed with explanation,Yes,510326
+08/30/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,GA,30106,,,Web,08/30/2013,Closed with explanation,Yes,511067
+08/30/2013,Credit card,,Application processing delay,,,,Capital One,NY,12206,,,Phone,03-09-2013,Closed with explanation,Yes,510098
+08/30/2013,Credit card,,Credit line increase/decrease,,,,Wells Fargo & Company,AZ,85730,,,Postal mail,05-09-2013,Closed with explanation,Yes,511062
+08/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,IL,60660,,,Referral,04-09-2013,Closed with explanation,Yes,511116
+08/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,GA,30016,,,Referral,04-09-2013,Closed with explanation,Yes,511091
+09/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"SunTrust Banks, Inc.",CA,94551,,,Web,09/18/2013,Closed with explanation,Yes,530602
+08/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Convergent Resources, Inc.",NC,27545,,,Web,08/30/2013,Closed with explanation,Yes,509988
+08/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Capital One,NC,27614,,,Fax,03-09-2013,Closed with explanation,Yes,511084
+08/30/2013,Mortgage,Conventional adjustable mortgage (ARM),Credit decision / Underwriting,,,,Bank of America,TX,75023,,,Web,03-09-2013,Closed with explanation,Yes,511090
+08/30/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,TX,78244,,,Fax,03-09-2013,Closed with explanation,Yes,510129
+10-09-2013,Debt collection,Credit card,Communication tactics,Called outside of 8am-9pm,,,Bank of America,GA,30132,,,Web,09/14/2013,Closed with explanation,Yes,521353
+09/17/2013,Credit card,,Late fee,,,,"PayPal Holdings, Inc.",DC,20003,,,Web,09/17/2013,Closed with monetary relief,Yes,531853
+09/17/2013,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,,,Van Ru Credit Corporation,KY,40508,,,Phone,09/18/2013,Closed with non-monetary relief,Yes,530622
+09/24/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,"TransUnion Intermediate Holdings, Inc.",IL,62060,,,Web,09/24/2013,Closed with non-monetary relief,Yes,540835
+09/24/2013,Debt collection,Non-federal student loan,Improper contact or sharing of info,Talked to a third party about my debt,,,Allied Interstate LLC,GA,30039,,,Phone,09/25/2013,Closed with non-monetary relief,Yes,540355
+09/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,RI,2921,,,Postal mail,10-10-2013,Closed with explanation,Yes,531346
+09/17/2013,Credit card,,Billing disputes,,,,Bank of America,TN,37874,Older American,,Phone,04-11-2013,Closed with explanation,Yes,530624
+09/24/2013,Debt collection,Non-federal student loan,Improper contact or sharing of info,Talked to a third party about my debt,,,"Navient Solutions, Inc.",GA,30039,,,Phone,09/25/2013,Closed with monetary relief,Yes,540356
